@@ -206,6 +206,13 @@
     "type": "rust"
   },
   {
+    "ip": "dojo.smashbreakofficial.com",
+    "port": 11452,
+    "flag": "us",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
     "ip": "switch.lan-play.com",
     "port": 11452,
     "flag": "fr",
